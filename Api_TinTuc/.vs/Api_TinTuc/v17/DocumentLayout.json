@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|c:\\users\\hoang\\onedrive\\m\u00E1y t\u00EDnh\\tt\\api_tintuc\\api_tintuc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|solutionrelative:api_tintuc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|c:\\users\\hoang\\onedrive\\m\u00E1y t\u00EDnh\\tt\\api_tintuc\\api_tintuc\\model\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|solutionrelative:api_tintuc\\model\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|c:\\users\\hoang\\onedrive\\m\u00E1y t\u00EDnh\\tt\\api_tintuc\\api_tintuc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|solutionrelative:api_tintuc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|c:\\users\\hoang\\onedrive\\m\u00E1y t\u00EDnh\\tt\\api_tintuc\\api_tintuc\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|solutionrelative:api_tintuc\\controllers\\tintuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|c:\\users\\hoang\\onedrive\\m\u00E1y t\u00EDnh\\tt\\api_tintuc\\api_tintuc\\model\\servicea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|solutionrelative:api_tintuc\\model\\servicea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|c:\\users\\hoang\\onedrive\\m\u00E1y t\u00EDnh\\tt\\api_tintuc\\api_tintuc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|solutionrelative:api_tintuc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|c:\\users\\hoang\\onedrive\\m\u00E1y t\u00EDnh\\tt\\api_tintuc\\api_tintuc\\model\\tintucvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0348382-7EF2-4922-ABD5-0344EB5BA09D}|Api_TinTuc\\Api_TinTuc.csproj|solutionrelative:api_tintuc\\model\\tintucvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Program.cs",
+              "RelativeDocumentMoniker": "Api_TinTuc\\Program.cs",
+              "ToolTip": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Program.cs",
+              "RelativeToolTip": "Api_TinTuc\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:52:01.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api_TinTuc\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\WeatherForecast.cs",
+              "RelativeToolTip": "Api_TinTuc\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:51:59.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceA.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Model\\ServiceA.cs",
+              "RelativeDocumentMoniker": "Api_TinTuc\\Model\\ServiceA.cs",
+              "ToolTip": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Model\\ServiceA.cs",
+              "RelativeToolTip": "Api_TinTuc\\Model\\ServiceA.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:33:04.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TintucController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Controllers\\TintucController.cs",
+              "RelativeDocumentMoniker": "Api_TinTuc\\Controllers\\TintucController.cs",
+              "ToolTip": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Controllers\\TintucController.cs",
+              "RelativeToolTip": "Api_TinTuc\\Controllers\\TintucController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAGIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:32:05.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TintucVM.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Model\\TintucVM.cs",
+              "RelativeDocumentMoniker": "Api_TinTuc\\Model\\TintucVM.cs",
+              "ToolTip": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Model\\TintucVM.cs",
+              "RelativeToolTip": "Api_TinTuc\\Model\\TintucVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:31:24.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Model\\LoginUser.cs",
+              "RelativeDocumentMoniker": "Api_TinTuc\\Model\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Model\\LoginUser.cs",
+              "RelativeToolTip": "Api_TinTuc\\Model\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:29:12.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Api_TinTuc\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hoang\\OneDrive\\M\u00E1y t\u00EDnh\\TT\\Api_TinTuc\\Api_TinTuc\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Api_TinTuc\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:28:06.258Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
